@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Selina</h1>
-<h3 align="center">A data scientist/analyst from Taiwan</h3>
+<h1 align="center">Hi, I'm Selina</h1>
+<h3 align="center">Data scientist / analyst from Taiwan</h3>
 
 - 📫 How to reach me **selina012154selina@gmail.com**
 
